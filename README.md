@@ -1,4 +1,4 @@
-### Hi there, I'm Marten Scheuck. Welcome to my Github page!
+# Hi there - I'm Marten Scheuck
 I am a physicist aspiring to become an astrophysicist and combine programming to contribute to the exploration of our universe.
 
 - My work so far:
