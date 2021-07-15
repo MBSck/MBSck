@@ -1,6 +1,8 @@
 # Hi there - I'm Marten Scheuck
 I am a physicist from Regensburg, Germany, aspiring to become an astrophysicist with my wish to combine programming and observation to contribute to the exploration of our universe.
 
+Working on improving my Python as well as C++ skills, as you can see in my repos.
+
 * My work so far:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](https://www.researchgate.net/profile/Marten-Scheuck-2)<br>
 
