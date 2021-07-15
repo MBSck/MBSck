@@ -3,6 +3,7 @@ I am a physicist from Regensburg, Germany, aspiring to become an astrophysicist 
 
 Working on improving my Python as well as C++ skills, as you can see in my repos.
 
+## Some General Stuff
 * My work so far:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](https://www.researchgate.net/profile/Marten-Scheuck-2)<br>
 
