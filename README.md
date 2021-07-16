@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="RegensburgSkyline.jpg" height="200" width="800 /></div>
+<div style="text-align:center"><img src="RegensburgSkyline.jpg"></div>
 
 # Hi there - I'm Marten Scheuck
 I am a physicist from Regensburg, Germany, aspiring to become an astrophysicist with the wish to combine programming and observation to contribute to the exploration of our universe.
