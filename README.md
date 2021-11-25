@@ -3,6 +3,10 @@
 # Hi there - I'm Marten Scheuck
 I am a PhD student in astronomy working at the [Max-Planck Institute for Astronomy](https://www.mpia.de/de) in Heidelberg, Germany.<br> I am aspiring to become a full fledged researcher in astronomy with the wish of combining both programming and observation to contribute to the exploration of our universe and the scientific advance.
 
+Before that my Alma Mater has been the University of Regensburg, where, in its beautiful city I lived for 6 years
+
+<div style="text-align:center"><img src="RegensburgSkyline.jpg"></div>
+
 Working on improving my Python as well as C++ skills and aquiring general knowledge about clean and productive code.
 
 ## Some General Stuff
