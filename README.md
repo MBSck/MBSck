@@ -5,9 +5,7 @@ I am a PhD student in astronomy working at the [Max-Planck Institute for Astrono
 
 Before that my Alma Mater has been the University of Regensburg, where, in its beautiful city I lived for 6 years
 
-<div style="text-align:center"><img src="RegensburgSkyline.jpg"></div>
-
-Working on improving my Python as well as C++ skills and aquiring general knowledge about clean and productive code.
+At the moment I am working on improving my Python as well as C++ skills and aquiring general knowledge about clean and productive code to improve my abilities in general, but even more so to further my ability to do astronomical computation.
 
 ## Some General Stuff
 * My work so far:<br>
