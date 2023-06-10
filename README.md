@@ -9,7 +9,7 @@ At the moment I am working on improving my Python as well as C++ skills and aqui
 
 ## Some General Stuff
 * My work so far:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](https://www.researchgate.net/profile/Marten-Scheuck-2)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](https://ui.adsabs.harvard.edu/search/q=%20author%3A%22M.%20Scheuck%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
 * How to reach me:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/marten-scheuck/)
